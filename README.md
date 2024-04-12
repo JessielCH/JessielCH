@@ -23,11 +23,6 @@ I'm enthusiastic about technology and love diving into new projects and challeng
 - [Python Networking Project](https://github.com/JessielCH/Final-_py): Python program for connecting to other computers to obtain data.
 - [Web Project](https://github.com/JessielCH/arq-p1-projecto): Contributed to a project to display data from other computers on a website.
 
-## Contributions 🌐
-
-- [Project Name](URL to Project): Description of your contribution.
-
-Feel free to reach out if you'd like to connect or collaborate! Let's build something awesome together! 🚀
 
 <!---
 JessielCH/JessielCH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
