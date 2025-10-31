@@ -22,28 +22,28 @@ Advanced public transport security system: AI, weapon detection, audio & geoloca
 
 ## ⚡ Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-F99000?logo=huggingface&logoColor=white)
+| Backend / API | Frontend / Web | Databases / Tools |
+|---------------|----------------|-----------------|
+| ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) |
+| ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) |  | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
+| ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=white) |  | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) |  | ![Hugging Face](https://img.shields.io/badge/HuggingFace-F99000?logo=huggingface&logoColor=white) |
 
 ---
 
 ## 📊 GitHub Stats
 
 ![JessielCH GitHub stats](https://github-readme-stats.vercel.app/api?username=JessielCH&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessielCH&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessielCH&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JessielCH&theme=radical)  
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=JessielCH&theme=react-dark)  
+
+![GitHub followers](https://img.shields.io/github/followers/JessielCH?label=Follow&style=social)  
+![GitHub repo stars](https://img.shields.io/github/stars/JessielCH?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/JessielCH?style=social)
 
 ---
 
