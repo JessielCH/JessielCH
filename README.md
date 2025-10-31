@@ -1,8 +1,15 @@
-# Hi there! 👋
+<!-- START HEADER -->
+<h1 align="center">Hi there! 👋</h1>
 
-I'm **Jessiel Chasiguano**, an **Information Systems Engineering student 🎓** and passionate **Software Developer 💻**.  
-![Joy GIF](https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif)   
-🌱 I’m currently exploring **Machine Learning, Data Analysis, Web Development**, and **Backend/Database technologies**. I enjoy **creating simulations, analyzing data**, and building solutions that solve real-world problems.
+<div align="center">
+  <img src="https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif" alt="Joy GIF" width="300"/>
+  <p><i>Mini-dashboard demo inspired by Formula 1 telemetry and data visualization.</i></p>
+</div>
+
+<p align="center">
+I'm <b>Jessiel Chasiguano</b>, an <b>Information Systems Engineering student 🎓</b> and passionate <b>Software Developer 💻</b>.
+</p>
+<!-- END HEADER -->
 
 ---
 
@@ -46,6 +53,10 @@ Advanced public transport security system: AI, weapon detection, audio & geoloca
 
 ![JessielCH GitHub stats](https://github-readme-stats.vercel.app/api?username=JessielCH&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessielCH&layout=compact&theme=radical)  
+
+### Coding Stats
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JessielCH&theme=react-dark&hide_border=true)  
+*This graph shows commits per week and coding activity over time.*
 
 ![GitHub followers](https://img.shields.io/github/followers/JessielCH?label=Follow&style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/JessielCH?style=social)  
