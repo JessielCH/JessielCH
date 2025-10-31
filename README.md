@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 I'm **Jessiel Chasiguano**, an **Information Systems Engineering student 🎓** and passionate **Software Developer 💻**.  
-
+![1 Code]([https://media.giphy.com/media/xT0Gqz1GZn7jz9bV9y/giphy.gif](https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif))  
 🌱 I’m currently exploring **Machine Learning, Data Analysis, Web Development**, and **Backend/Database technologies**. I enjoy **creating simulations, analyzing data**, and building solutions that solve real-world problems.
 
 ---
