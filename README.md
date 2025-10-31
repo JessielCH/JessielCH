@@ -16,8 +16,9 @@ Currently exploring various technologies and collaborating on open‑source proj
 - Music lover 🎶  
 - Passionate about software development and data analysis 📊
 - F1 Lover
-  ![f1_PNG](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffluidjobs.com%2Fblog%2Fsoftware-engineering-in-formula-1-what-skills-are-in-demand-&psig=AOvVaw0pQFB8rMw8AC54X8B6r0I6&ust=1762028768397000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDHpPyiz5ADFQAAAAAdAAAAABAE
-)
+  
+  ![f1_PNG](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffluidjobs.com%2Fblog%2Fsoftware-engineering-in-formula-1-what-skills-are-in-demand-&psig=AOvVaw0pQFB8rMw8AC54X8B6r0I6&ust=1762028768397000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDHpPyiz5ADFQAAAAAdAAAAABAE)
+
 ---
 
 ## Skills 🚀
@@ -30,9 +31,6 @@ Here’s what I’m currently working with:
 | Web Development | HTML, CSS, JS 🌐                  |
 | Databases       | MySQL, PostgreSQL 🗄️             |
 | Tools           | Git & GitHub 🛠️                  |
-
-> Tip: You can add technology logos or badges, e.g.:  
-> `![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)`
 
 ---
 
