@@ -38,12 +38,8 @@ Advanced public transport security system: AI, weapon detection, audio & geoloca
 ![JessielCH GitHub stats](https://github-readme-stats.vercel.app/api?username=JessielCH&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessielCH&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JessielCH&theme=radical)  
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=JessielCH&theme=react-dark)  
-
 ![GitHub followers](https://img.shields.io/github/followers/JessielCH?label=Follow&style=social)  
-![GitHub repo stars](https://img.shields.io/github/stars/JessielCH?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/JessielCH?style=social)
+![GitHub stars](https://img.shields.io/github/stars/JessielCH?style=social)  
 
 ---
 
