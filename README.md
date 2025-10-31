@@ -33,13 +33,31 @@ Advanced public transport security system: AI, weapon detection, audio & geoloca
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Languages / Idiomas
+
+| Language | Level |
+|----------|-------|
+| Spanish 🇪🇸 | Native |
+| English 🇬🇧 | 30-40% |
+
+---
+
+## 📊 GitHub Stats & Coding Activity
 
 ![JessielCH GitHub stats](https://github-readme-stats.vercel.app/api?username=JessielCH&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessielCH&layout=compact&theme=radical)  
 
+![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=JessielCH&repo=Kuntur_Movilidad&theme=radical)  
+![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=JessielCH&repo=firma_digitaL_uce&theme=radical)  
+
 ![GitHub followers](https://img.shields.io/github/followers/JessielCH?label=Follow&style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/JessielCH?style=social)  
+
+---
+
+## ✨ Personal Verse
+
+> "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go." – **Joshua 1:9**
 
 ---
 
