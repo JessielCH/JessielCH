@@ -170,7 +170,14 @@ const profile: Developer & Student = {
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JessielCH&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JessielCH&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="280em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JessielCH&theme=radical" alt="Profile Details Card"/>
+  <img height="280em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JessielCH&theme=radical" alt="Commit Languages Card"/>
 </div>
 
 ---
