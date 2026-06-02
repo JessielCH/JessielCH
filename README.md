@@ -1,83 +1,136 @@
-<!-- START HEADER -->
-<h1 align="center">Hi there! 👋</h1>
-
-<div align="center">
-  <img src="https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif" alt="Joy GIF" width="300"/>
-  
+<h1 align="center">Jessiel Chasiguano</h1>
+<p align="center"><b>Information Systems Engineering · UCE</b></p>
+<p align="center">Quito, Ecuador 🇪🇨</p>
 
 <p align="center">
-I'm <b>Jessiel Chasiguano</b>, an <b>Information Systems Engineering student 🎓</b> and passionate <b>Software Developer 💻</b>.
+  <a href="mailto:jessieljosue@gmail.com"><img src="https://img.shields.io/badge/-jessieljosue@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jessiel-josue-chasiguano-santin/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/JessielCH"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
-<!-- END HEADER -->
 
 ---
 
-## 🚀 Featured Projects
+## About me
 
-### 1️⃣ Digital Signature System - UCE
-![Security](https://img.shields.io/badge/Security-RSA2048-red)  
-Sign & verify documents digitally using X.509 certificates and RSA‑2048.  
-[View Project →](https://github.com/JessielCH/firma_digitaL_uce)
+I'm an Information Systems Engineering student at Universidad Central del Ecuador. I'm interested in **software architecture** — how systems are structured so they stay maintainable, scalable, and don't fall apart after six months.
 
-### 2️⃣ Kuntur Movilidad
-![AI](https://img.shields.io/badge/AI-FF6F61) ![Geo](https://img.shields.io/badge/Geo-4CAF50)  
-Advanced public transport security system: AI, weapon detection, audio & geolocation analysis.  
-[View Project →](https://github.com/JessielCH/Kuntur_Movilidad)
+I'm currently learning about patterns like **Clean Architecture**, **microservices**, **event-driven design**, and **distributed systems**, and I try to apply what I learn in the projects I build, even at a small scale. I don't just want things to work — I want to understand *why* they're designed a certain way.
+
+I also love **Formula 1** 🏎️ and **music** 🎶 — and someday I'd like to work in data analysis and simulations for motorsport.
 
 ---
 
-## ⚡ Technologies & Tools
+## What I'm learning
 
-| Backend / API | Frontend / Web | Databases / Tools |
-|---------------|----------------|-----------------|
-| ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) |
-| ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) |  | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
-| ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=white) |  | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
-| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) |  | ![Hugging Face](https://img.shields.io/badge/HuggingFace-F99000?logo=huggingface&logoColor=white) |
+```
+Software Architecture
+├── Clean Architecture
+├── Hexagonal Architecture (Ports & Adapters)
+├── Domain-Driven Design (basics)
+├── Event-Driven Architecture
+└── Microservices vs Modular Monoliths
+
+Patterns & Principles
+├── SOLID
+├── Design Patterns (GoF)
+├── Repository Pattern
+├── CQRS (exploring)
+└── Separation of Concerns
+```
+
+I'm not an expert in any of these — I'm still learning. But with every project I build, I try to apply at least one new concept.
 
 ---
 
-## 🌐 Languages / Idiomas
+## Featured projects
+
+### 🔐 Digital Signature System — UCE
+A system for digitally signing and verifying documents using X.509 certificates and RSA-2048. Includes user validation and certificate management.
+
+**What's interesting architecturally:** separation between the cryptography logic, user validation, and the presentation layer.
+
+`HTML` · `JavaScript` · `Cryptography`
+
+[→ View repository](https://github.com/JessielCH/firma_digitaL_uce)
+
+---
+
+### 🚍 Kuntur Movilidad
+A web application for public transport security. Integrates weapon detection with AI, audio analysis, and geolocation.
+
+**What's interesting architecturally:** multiple services (vision, audio, geo) that need to communicate. A good exercise in thinking about decoupling.
+
+`Python` · `AI` · `Geolocation`
+
+[→ View repository](https://github.com/JessielCH/Kuntur_Movilidad)
+
+---
+
+### 🎓 Scholarship System — UCE
+A platform for managing university scholarships. Handles roles, application statuses, and approval workflows.
+
+**What's interesting architecturally:** state flows, role-based access control, and separation of responsibilities across modules.
+
+`HCL` · `JavaScript`
+
+[→ View repository](https://github.com/JessielCH/scholarship-system-platform)
+
+---
+
+### 🧠 Cognitive Treasury
+A project exploring cognitive science concepts applied to software.
+
+`JavaScript`
+
+[→ View repository](https://github.com/JessielCH/cognitive-treasury)
+
+---
+
+### ⚽ Hola Mundo Fútbol
+A small Python project — useful for experimenting with code structure.
+
+`Python`
+
+[→ View repository](https://github.com/JessielCH/hola-mundo-futbol)
+
+---
+
+## Tech stack
+
+**Languages:** Python · JavaScript · Java · HTML/CSS
+
+**Backend:** Node.js · Express · FastAPI · Spring Boot
+
+**Databases:** PostgreSQL · MySQL · Redis
+
+**Tools:** Git · GitHub · Hugging Face
+
+**Currently learning:** Docker · architecture patterns · testing
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JessielCH&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessielCH&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+</p>
+
+---
+
+## Languages
 
 | Language | Level |
 |----------|-------|
 | Spanish 🇪🇸 | Native |
-| English 🇬🇧 | 30-40% |
+| English 🇬🇧 | Lower intermediate (~30-40%) |
 
 ---
 
-## 📊 GitHub Stats & Coding Activity
+## A personal note
 
-![JessielCH GitHub stats](https://github-readme-stats.vercel.app/api?username=JessielCH&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessielCH&layout=compact&theme=radical)  
-
-
-![GitHub followers](https://img.shields.io/github/followers/JessielCH?label=Follow&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/JessielCH?style=social)  
+> "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go." — **Joshua 1:9**
 
 ---
 
-## ✨ Personal Verse
-
-> "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go." – **Joshua 1:9**
-
----
-
-## 📫 Connect with Me
-
-[![Email Badge](https://img.shields.io/badge/Email-jessieljosue@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:jessieljosue@gmail.com)  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Jessiel%20Josue-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessiel-josue-chasiguano-santin/)  
-[![GitHub Badge](https://img.shields.io/badge/GitHub-JessielCH-black?style=flat-square&logo=github&logoColor=white)](https://github.com/JessielCH)  
-
----
-
-## 🌟 About Me
-
-- Always seeking **innovation and learning**.  
-- Combining **Data Science + Machine Learning + Software Development** for real-world impact.  
-- Huge **Formula 1 fan 🏎️**, aiming to work in motorsport data analysis & simulations.  
-- Loves **music 🎶**, coding challenges, and building creative projects.  
-
-✨ *Let's build solutions and learn together!* 🚀
+<p align="center"><i>If you want to collaborate on something or just talk about software architecture, feel free to reach out.</i></p>
