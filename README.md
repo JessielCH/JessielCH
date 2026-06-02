@@ -16,7 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JessielCH&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/JessielCH?label=Followers&style=for-the-badge&color=1f6feb" alt="GitHub Followers"/>&nbsp;
+  <img src="https://img.shields.io/github/stars/JessielCH?label=Stars&style=for-the-badge&color=1f6feb" alt="GitHub Stars"/>
 </p>
 
 ---
@@ -162,14 +163,14 @@ const profile: Developer & Student = {
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessielCH&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessielCH&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=JessielCH&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JessielCH&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JessielCH&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=JessielCH&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
