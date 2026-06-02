@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+systems+that+scale+%F0%9F%8F%97%EF%B8%8F;Learning+Clean+Architecture+%26+DDD+%F0%9F%93%90;From+Quito%2C+Ecuador+to+the+world+%F0%9F%8C%8E" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+systems+that+scale;Learning+Clean+Architecture+and+DDD;From+Quito%2C+Ecuador+to+the+world" alt="Typing SVG" /></a>
 </p>
 
 <!-- SOCIAL BADGES -->
@@ -21,39 +21,50 @@
 
 ---
 
-## 🧑‍💻 &nbsp;About Me
+## About Me
 
-```yaml
-name: Jessiel Chasiguano
-location: Quito, Ecuador
-education: Information Systems Engineering @ Universidad Central del Ecuador
-focus: Software Architecture & Distributed Systems
-currently_learning:
-  - Clean Architecture
-  - Hexagonal Architecture (Ports & Adapters)
-  - Domain-Driven Design
-  - Event-Driven Architecture
-  - Microservices vs Modular Monoliths
-principles:
-  - SOLID
-  - Design Patterns (GoF)
-  - Repository Pattern
-  - CQRS
-  - Separation of Concerns
-fun_facts:
-  - Formula 1 fan 🏎️ — dream: motorsport data analysis
-  - Music lover 🎶
-  - I don't just want code to work — I want to understand WHY it's designed that way
+```typescript
+import { Student, Developer } from "jessiel";
+
+const profile: Developer & Student = {
+  name: "Jessiel Chasiguano",
+  location: "Quito, Ecuador",
+  academic: {
+    university: "Universidad Central del Ecuador",
+    degree: "Information Systems Engineering"
+  },
+  interests: {
+    core: ["Software Architecture", "Distributed Systems"],
+    learning: [
+      "Clean Architecture",
+      "Hexagonal Architecture (Ports & Adapters)",
+      "Domain-Driven Design basics",
+      "Event-Driven Architecture",
+      "Modular Monoliths"
+    ],
+    principles: [
+      "SOLID",
+      "Design Patterns (GoF)",
+      "Separation of Concerns",
+      "CQRS"
+    ]
+  },
+  hobbies: [
+    "Formula 1 / Motorsport data analysis", 
+    "Music"
+  ],
+  philosophy: "Understand WHY systems are designed the way they are, not just how to make them work"
+};
 ```
 
 ---
 
-## 🏗️ &nbsp;Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔐 Digital Signature System</h3>
+      <h3 align="center">Digital Signature System</h3>
       <p align="center">
         <a href="https://github.com/JessielCH/firma_digitaL_uce">
           <img src="https://img.shields.io/badge/VIEW_REPO-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
@@ -68,7 +79,7 @@ fun_facts:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🚍 Kuntur Movilidad</h3>
+      <h3 align="center">Kuntur Movilidad</h3>
       <p align="center">
         <a href="https://github.com/JessielCH/Kuntur_Movilidad">
           <img src="https://img.shields.io/badge/VIEW_REPO-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
@@ -85,7 +96,7 @@ fun_facts:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎓 Scholarship System</h3>
+      <h3 align="center">Scholarship System</h3>
       <p align="center">
         <a href="https://github.com/JessielCH/scholarship-system-platform">
           <img src="https://img.shields.io/badge/VIEW_REPO-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
@@ -99,7 +110,7 @@ fun_facts:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Cognitive Treasury</h3>
+      <h3 align="center">Cognitive Treasury</h3>
       <p align="center">
         <a href="https://github.com/JessielCH/cognitive-treasury">
           <img src="https://img.shields.io/badge/VIEW_REPO-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
@@ -116,7 +127,7 @@ fun_facts:
 
 ---
 
-## ⚡ &nbsp;Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -148,7 +159,7 @@ fun_facts:
 
 ---
 
-## 📊 &nbsp;GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessielCH&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
@@ -163,16 +174,16 @@ fun_facts:
 
 ---
 
-## 🌐 &nbsp;Languages
+## Languages
 
 | Language | Level |
 |----------|-------|
-| 🇪🇸 Spanish | Native |
-| 🇬🇧 English | Lower intermediate (~30-40%) |
+| Spanish | Native |
+| English | Lower intermediate (~30-40%) |
 
 ---
 
-## ✨ &nbsp;Personal Note
+## Personal Note
 
 > *"Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."* — **Joshua 1:9**
 
