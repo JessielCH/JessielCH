@@ -158,33 +158,8 @@ fun_facts:
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JessielCH&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=JessielCH&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </div>
-
-<br/>
-
-<!-- CONTRIBUTION GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JessielCH&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" width="95%"/>
-</div>
-
----
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JessielCH&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
-</div>
-
----
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JessielCH/JessielCH/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> ⚙️ *To activate the snake, add the [Snk GitHub Action](https://github.com/Platane/snk) to your profile repo.*
 
 ---
 
